@@ -1,0 +1,9 @@
+{
+	"name": "das-adf01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "acaef7ea-5f42-4830-841b-48fdfa1d7125",
+		"tenantId": "8c5da75e-fbb3-44ae-b217-246369872ecb"
+	}
+}
